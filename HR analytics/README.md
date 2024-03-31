@@ -53,5 +53,5 @@ The Python script provided below generates SQL insertion queries based on the ra
 
 Copyright © 2022 Yajnesh Shetty
 
-Feel free to use and modify this README template for your HR analytics project. You can include additional sections or customize the content to suit your specific project requirements.
+
 
