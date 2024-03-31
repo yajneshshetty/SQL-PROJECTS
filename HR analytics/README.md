@@ -49,7 +49,7 @@ To populate the **Employee** and **Performance Review** tables with sample data,
 The Python script provided below generates SQL insertion queries based on the randomized data, which can then be executed to populate the tables.
 
 ```python
-# [Python code goes here](https://github.com/yajneshshetty/SQL-PROJECTS/blob/main/HR%20analytics/Dataset.ipynb)
+
 
 Copyright © 2022 Yajnesh Shetty
 
