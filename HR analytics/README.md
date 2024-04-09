@@ -51,7 +51,7 @@ The Python script provided below generates SQL insertion queries based on the ra
 ```python
 
 
-Copyright © 2022 Yajnesh Shetty
+Copyright © 2024 Yajnesh Shetty
 
 
 
