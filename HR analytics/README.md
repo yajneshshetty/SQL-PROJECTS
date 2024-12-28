@@ -1,7 +1,8 @@
 # HR Analytics Project
 
 ## Overview
-
+ankjds mc
+dsfc
 This project focuses on HR analytics, leveraging SQL for data analysis. The primary datasets analyzed are the **Employee table** and the **Performance Review table**.
 
 ## Employee Table
